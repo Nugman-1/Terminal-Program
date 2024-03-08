@@ -1,0 +1,3 @@
+test
+test
+Alexander& "C:/Program Files/Python312/python.exe" "//fsacad02.academic.bmet.ad/StudentHome/Students/23002024/My Documents/The Shelf/PYTHON/Terminal/Login terminal v2.py"
